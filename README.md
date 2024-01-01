@@ -11,7 +11,7 @@ Visual Studio 2022 (or later) with .NET SDK 6.0 (or later)
 Clone the Repository:
 
 Bash
-git clone [https://github.com/your-username/stateless-aot-example.git](https://github.com/Jignesh-Darji/.NET-Core-Native-AOT-App.git)
+git clone [https://github.com/Jignesh-Darji/.NET-Core-Native-AOT-App.git](https://github.com/Jignesh-Darji/.NET-Core-Native-AOT-App.git)
 Use code with caution. Learn more
 Restore NuGet Packages:
 
