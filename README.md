@@ -11,7 +11,7 @@ This repository demonstrates how to create a C# native AOT console app using the
 
 2. Clone the Repository:
 ```
-git clone [https://github.com/Jignesh-Darji/.NET-Core-Native-AOT-App.git](https://github.com/Jignesh-Darji/.NET-Core-Native-AOT-App.git)
+git clone https://github.com/Jignesh-Darji/.NET-Core-Native-AOT-App.git
 ```
 3. Restore NuGet Packages:
 
