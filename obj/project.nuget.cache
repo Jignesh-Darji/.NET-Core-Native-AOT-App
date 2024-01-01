@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bv1/gGEY4GJeHalY32HRYpPJoTGSS7cgY7b9W4XH6auwZ4jf0yY+EqbJVUaQGiP6yKjutykd8BUPVE8ExuIOlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jikgp\\source\\repos\\NET Core Console App\\NET Core Console App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jikgp\\.nuget\\packages\\stateless\\5.15.0\\stateless.5.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

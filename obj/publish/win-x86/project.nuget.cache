@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tDyAVY/eviVQru8KJcXX78Ol6s31JGoyYgBauT04GMqWe3auV0qLTUg/E3cl+b2DR6lP0EXchDAjC9XP7PU2kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jikgp\\source\\repos\\NET Core Console App\\NET Core Console App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jikgp\\.nuget\\packages\\stateless\\5.15.0\\stateless.5.15.0.nupkg.sha512",
+    "C:\\Users\\jikgp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.9\\microsoft.netcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\jikgp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\jikgp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x86.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

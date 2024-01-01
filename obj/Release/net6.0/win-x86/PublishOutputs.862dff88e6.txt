@@ -1,0 +1,2 @@
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\win-x86\NET Core Console App.pdb
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\win-x86\NET Core Console App.exe

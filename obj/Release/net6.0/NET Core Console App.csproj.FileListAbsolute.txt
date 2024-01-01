@@ -1,0 +1,17 @@
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\NET Core Console App.exe
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\NET Core Console App.deps.json
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\NET Core Console App.runtimeconfig.json
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\NET Core Console App.dll
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\NET Core Console App.pdb
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\Stateless.dll
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.csproj.AssemblyReference.cache
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.AssemblyInfoInputs.cache
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.AssemblyInfo.cs
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.csproj.CoreCompileInputs.cache
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.csproj.CopyComplete
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.dll
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\refint\NET Core Console App.dll
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.pdb
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\NET Core Console App.genruntimeconfig.cache
+C:\Users\jikgp\source\repos\NET Core Console App\obj\Release\net6.0\ref\NET Core Console App.dll

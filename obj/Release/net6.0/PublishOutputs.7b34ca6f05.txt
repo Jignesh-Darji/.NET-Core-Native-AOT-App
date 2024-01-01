@@ -1,0 +1,6 @@
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\NET Core Console App.exe
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\NET Core Console App.dll
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\NET Core Console App.deps.json
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\NET Core Console App.runtimeconfig.json
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\NET Core Console App.pdb
+C:\Users\jikgp\source\repos\NET Core Console App\bin\Release\net6.0\publish\Stateless.dll
